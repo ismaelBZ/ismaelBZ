@@ -1,5 +1,4 @@
 
-![Uploading octocat-1696444690793.png…]()
 
 <div>
 <a href="https://github.com/ismaelBZ">
