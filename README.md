@@ -1,4 +1,4 @@
-(https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png)
+<img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" />
 
 <div>
 <a href="https://github.com/ismaelBZ">
