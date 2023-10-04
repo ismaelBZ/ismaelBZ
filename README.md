@@ -1,5 +1,5 @@
-<div style="width:50px; height:100%;">
-  <img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" />
+<div>
+  <img width="50px" src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" />
 </div>
 
 <div>
