@@ -1,7 +1,7 @@
 
 <div>
 <a href="https://github.com/ismaelBZ">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelBZ&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelBZ&layout=compact&langs_count=7&theme=tokyonight"/>
 <img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" width="350"/>
 </div>
 
