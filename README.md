@@ -1,5 +1,5 @@
 <div>
-  <img width="50px" src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" />
+  <img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" width="50"/>
 </div>
 
 <div>
