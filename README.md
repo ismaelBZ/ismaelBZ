@@ -1,4 +1,6 @@
 
+
+
 ### As Origens:
 
   Eu nunca imaginei me apaixonar por programação. Fiz uma faculdade na área de exatas porque tinha facilidade e dentro do curso tive algumas matérias voltadas ao desenvolvimento de aplicações em Visual Basic e com Math Lab. Pessoal ... que coisa mais difícil. 
