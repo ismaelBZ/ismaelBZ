@@ -1,4 +1,6 @@
-<img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" />
+<div style="width:50px;">
+  <img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" />
+</div>
 
 <div>
 <a href="https://github.com/ismaelBZ">
