@@ -7,7 +7,7 @@ Me defino como ele/dele, sou casado e temos uma filha felina.
 Passo o dia ouvindo musica e dentre os meus gostos musicais, estão rock, reggae, blues e pop. 
 Os meus passatempos prediletos são minha familía, video-game e televisão. 
 
-### Aonde Estou
+### Onde Estou
 
 Sou desenvolvedor FRONT-END com conhecimentos no back-end e minha stack é composta pelas tecnologias abaixo:
 
@@ -19,12 +19,17 @@ Sou desenvolvedor FRONT-END com conhecimentos no back-end e minha stack é compo
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+### Para Onde Vou
 
+Esse mundo incrível que parece que nunca tem fim chamado tecnologia, tem muita, mas muita informação interessante. Agora o objetivo é aprender:
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" width="380px" align="right"/>
 
-### As Origens:
+### De Onde Vim:
 
   Eu nunca imaginei me apaixonar por programação. Fiz uma faculdade na área de exatas porque tinha facilidade e dentro do curso tive algumas matérias voltadas ao desenvolvimento de aplicações em Visual Basic e com Math Lab. Pessoal ... que coisa mais difícil. 
   
