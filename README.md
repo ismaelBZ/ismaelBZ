@@ -1,14 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&repeat=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vind%40!!!)](https://git.io/typing-svg)
 
-<div>
-  <p align="center" display="inline-block"> Fusce sit amet pretium turpis, nec scelerisque lacus. Vestibulum facilisis dapibus quam eu bibendum. Etiam facilisis bibendum mi quis hendrerit. Sed dapibus pellentesque porttitor. Ut et elit feugiat, scelerisque diam sed, bibendum est. Nam a massa nec est pharetra maximus at ac justo. Suspendisse potenti. Phasellus a consectetur urna. Donec condimentum leo tortor. </p>
-  <div display="inline-block" align="right" max-width="600px">
-      <img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" width="350" display="inline" text-align="center"/>
-    <div>
-      <a href="https://github.com/ismaelBZ">
-      <img loading="lazy" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelBZ&layout=compact&langs_count=7&theme=tokyonight" display="inline"/>
-    </div>
-  </div>
-</div>
+<img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" width="380px" align="right"/>
+
+
+
+
 
 
 ### As Origens:
