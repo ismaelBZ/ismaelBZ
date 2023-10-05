@@ -2,11 +2,12 @@
 
 # Quem Sou
 
-Meu nome é Ismael, sou Brasileiro, atualmente moro na Bahia e AMO o nordeste, gênero definido masculino, casado e com uma filha felina.
+Meu nome é Ismael, tenho 30 anos, sou Brasileiro, atualmente moro na Bahia e amo o nordeste.
+Me defino como ele/dele, sou casado e temos uma filha felina.
 Passo o dia ouvindo musica e dentre os meus gostos musicais, estão rock, reggae, blues e pop. 
 Os meus passatempos prediletos são minha familía, video-game e televisão. 
 
-## Aonde Estou
+### Aonde Estou
 
 Sou desenvolvedor FRONT-END com conhecimentos no back-end e minha stack é composta pelas tecnologias abaixo:
 
@@ -17,6 +18,8 @@ Sou desenvolvedor FRONT-END com conhecimentos no back-end e minha stack é compo
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+
 
 
 <img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" width="380px" align="right"/>
