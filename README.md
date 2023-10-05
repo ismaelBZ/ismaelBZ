@@ -1,6 +1,6 @@
 
 <div>
-  <p align="left" display="inline-block"> Paragrafo a esquerda </p>
+  <p align="center" display="inline-block"> Fusce sit amet pretium turpis, nec scelerisque lacus. Vestibulum facilisis dapibus quam eu bibendum. Etiam facilisis bibendum mi quis hendrerit. Sed dapibus pellentesque porttitor. Ut et elit feugiat, scelerisque diam sed, bibendum est. Nam a massa nec est pharetra maximus at ac justo. Suspendisse potenti. Phasellus a consectetur urna. Donec condimentum leo tortor. </p>
   <div display="inline-block" align="right" max-width="600px">
       <img src="https://github.com/ismaelBZ/ismaelBZ/blob/main/octocat-1696444939658.png" width="350" display="inline" text-align="center"/>
     <div>
