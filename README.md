@@ -21,7 +21,8 @@ Sou desenvolvedor FRONT-END com conhecimentos no back-end e minha stack é compo
 
 ### Para Onde Vou
 
-Esse mundo incrível que parece que nunca tem fim chamado tecnologia, tem muita, mas muita informação interessante. Agora o objetivo é aprender:
+Esse mundo incrível que parece que nunca tem fim chamado tecnologia, tem muita, mas muita informação interessante. 
+Agora o objetivo é aprender:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
