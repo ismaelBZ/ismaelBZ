@@ -3,8 +3,7 @@
 
 # Quem Sou
 
-Meu nome é Ismael, tenho 30 anos, sou Brasileiro, atualmente moro na Bahia e amo o nordeste.
-Me defino como ele/dele e tenho uma filha felina.
+Meu nome é Ismael, tenho 30 anos, sou Brasileiro, me defino como ele/dele e tenho uma filha felina.
 Passo o dia ouvindo musica e dentre os meus gostos musicais, estão rock, reggae, blues e pop. 
 Os meus passatempos prediletos são minha família, videogame e televisão. 
 
