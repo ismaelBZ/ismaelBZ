@@ -3,7 +3,7 @@
 
 # About Me
 
-My name is Ismael, I'm a 32-years-old developer from Brazil. I go bay he/him pronouns and have a cat son.
+My name is Ismael, I'm a 32-years-old developer from Brazil. I go by he/him pronouns and have a cat son.
 Most of my days are spent coding and listening to music - my favorite genres include rock, reggae, blues and pop.
 In my free time, I enjoy speending time with my family, paying video games and connecting with nature
 
